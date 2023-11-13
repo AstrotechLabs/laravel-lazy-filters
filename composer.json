@@ -1,0 +1,24 @@
+{
+    "name": "moiseskalebe/laravel-lazy-filters",
+    "description": "Traits para facilitar a criação de filtros em listagens com o Eloquent/Laravel",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "authors":[
+        {
+            "name": "Moises Kalebe",
+            "email": "moises979@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MoisesK\\LaravelLazyFilters\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.1",
+        "laravel/framework": ">=8"
+    },
+    "require-dev": {
+        "fakerphp/faker": "^1.16"
+    }
+}
