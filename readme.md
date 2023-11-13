@@ -25,11 +25,11 @@ Necessario PHP 8.0+ e Framework Laravel
 
 #### Para realizar a instalação desta dependência basta executar o seguinte comando:
 
-[//]: # (```shell)
+```shell
 
-[//]: # (composer require )
+composer require moiseskalebe/laravel-lazy-filters
 
-[//]: # (```)
+```
 
 ## Utilização
 #### Para que seja possivel a utilização deste package você precisa ter em mente algumas informações.
